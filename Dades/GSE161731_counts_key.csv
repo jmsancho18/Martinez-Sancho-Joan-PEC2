@@ -1,0 +1,199 @@
+"rna_id","subject_id","age","gender","race","cohort","time_since_onset","hospitalized","batch"
+"94189","A1BD46","57","Female","Black/African American","Bacterial",NA,NA,1
+"DU09-03S0000604","44DF6B","19","Male","Black/African American","Influenza",NA,NA,2
+"DU09-03S0000611","658A11","14","Male","White","Influenza",NA,NA,2
+"105920","61DE97","21","Female","White","Influenza",NA,NA,1
+"DU09-03S0000774","4D4F7C","50","Female","Black/African American","Influenza",NA,NA,1
+"DU09-03S0000775","C4D511","39","Female","Black/African American","Influenza",NA,NA,1
+"DU09-03S19478","A1470A","23","Female","Black/African American","Influenza",NA,NA,1
+"DU14-03S0000878","325AEE","27","Male","Black/African American","CoV other",NA,NA,1
+"DU14-03S0000889","4AAB31","25","Female","Black/African American","CoV other",NA,NA,1
+"DU18-02S0011619","450905","60","Male","White","COVID-19","early","No",1
+"DU18-02S0011620","450905","60","Male","White","COVID-19","early","No",1
+"DU18-02S0011621","450905","60","Male","White","COVID-19","early","No",1
+"DU18-02S0011622","450905","60","Male","White","COVID-19","middle","No",1
+"DU18-02S0011626","450905","60","Male","White","COVID-19","middle","No",1
+"DU18-02S0011624","450905","60","Male","White","COVID-19","late","No",1
+"DU18-02S0011625","450905","60","Male","White","COVID-19","late","No",1
+"DU18-02S0011623","0B943B","33","Male","White","COVID-19","early","No",2
+"DU18-02S0011603","0B943B","33","Male","White","COVID-19","early","No",2
+"DU18-02S0011605","0B943B","33","Male","White","COVID-19","middle","No",1
+"DU18-02S0011627","7085CA","28","Male","White","COVID-19","early","No",1
+"DU18-02S0011671","7085CA","28","Male","White","COVID-19","middle","No",1
+"DU18-02S0011672","7085CA","28","Male","White","COVID-19","middle","No",1
+"DU18-02S0011628","318281","27","Female","White","COVID-19","early","No",1
+"DU18-02S0011609","318281","27","Female","White","COVID-19","middle","No",1
+"DU18-02S0011616","318281","27","Female","White","COVID-19","late","No",2
+"DU18-02S0011629","B85D75","31","Female","White","COVID-19","early","No",1
+"DU18-02S0011630","0D76FC","30","Male","White","COVID-19","early","No",1
+"DU18-02S0011606","0D76FC","30","Male","White","COVID-19","middle","No",1
+"DU18-02S0011617","0D76FC","30","Male","White","COVID-19","late","No",1
+"DU18-02S0011632","C90C79","32","Male","White","COVID-19","middle","No",1
+"DU18-02S0011604","C90C79","32","Male","White","COVID-19","middle","No",1
+"DU18-02S0011656","C90C79","32","Male","White","COVID-19","late","No",1
+"DU18-02S0011677","41EE2E","30","Female","Asian","COVID-19","middle","No",1
+"DU18-02S0011678","180E1A","28","Female","White","COVID-19","middle","No",1
+"DU18-02S0011607","180E1A","28","Female","White","COVID-19","middle","No",1
+"DU18-02S0011658","180E1A","28","Female","White","COVID-19","late","No",1
+"DU18-02S0011679","03ADC4","32","Female","Black/African American","COVID-19","middle","No",1
+"DU18-02S0011680","82CCF5","31","Female","White","COVID-19","middle","No",1
+"DU18-02S0011608","82CCF5","31","Female","White","COVID-19","middle","No",1
+"DU18-02S0011657","82CCF5","31","Female","White","COVID-19","late","No",1
+"DU18-02S0011634","C70520","28","Female","White","COVID-19","middle","No",2
+"DU18-02S0011635","1A9B20","29","Female","White","COVID-19","middle","No",1
+"DU18-02S0011673","1A9B20","29","Female","White","COVID-19","late","No",1
+"DU18-02S0011674","1A9B20","29","Female","White","COVID-19","late","No",1
+"DU18-02S0011636","BAAF62","28","Male","White","COVID-19","middle","No",2
+"DU18-02S0011637","75A2B6","26","Female","Asian","COVID-19","middle","No",2
+"DU18-02S0011638","FA9A61","50","Male","White","COVID-19","middle","No",1
+"DU18-02S0011660","FA9A61","50","Male","White","COVID-19","late","No",1
+"DU18-02S0011665","FA9A61","50","Male","White","COVID-19","late","No",1
+"DU18-02S0011639","441D02","33","Male","White","COVID-19","middle","No",2
+"DU18-02S0011640","3B20C7","29","Male","Asian","COVID-19","middle","No",2
+"DU18-02S0011641","6BDA69","29","Female","White","COVID-19","early","No",1
+"DU18-02S0011642","3F05F3","29","Male","White","COVID-19","middle","No",1
+"DU18-02S0011643","E4B8AD","46","Male","White","COVID-19","middle","No",1
+"DU18-02S0011615","E4B8AD","46","Male","White","COVID-19","late","No",1
+"DU18-02S0011614","E4B8AD","46","Male","White","COVID-19","late","No",1
+"DU18-02S0011644","35D90D","56","Female","Asian","COVID-19","middle","No",1
+"DU18-02S0011659","35D90D","56","Female","Asian","COVID-19","late","No",1
+"DU18-02S0011663","35D90D","56","Female","Asian","COVID-19","late","No",1
+"DU18-02S0011645","49C793","54","Female","White","COVID-19","late","No",1
+"DU18-02S0011646","40067F","51","Male","White","COVID-19","middle","No",1
+"DU18-02S0011647","023B3D","50","Female","White","COVID-19","middle","No",1
+"DU18-02S0011661","0E1F8E","20","Male","White","COVID-19","early","No",1
+"DU18-02S0011655","0E1F8E","20","Male","White","COVID-19","middle","No",1
+"DU18-02S0011610","0E1F8E","20","Male","White","COVID-19","late","No",1
+"DU18-02S0011648","00D6EF","61","Male","Native Hawaiian/Pacific Islander","COVID-19","middle","No",1
+"DU18-02S0011649","184874","63","Female","White","COVID-19","middle","No",2
+"DU18-02S0011650","18A573","52","Female","White","COVID-19","late","No",2
+"DU18-02S0011651","E1D5C6","59","Male","Black/African American","COVID-19","middle","Yes",1
+"DU18-02S0011652","40646A","60","Male","Black/African American","COVID-19","middle","Yes",2
+"DU18-02S0011653","4275AF","29","Male","Asian","COVID-19","late","No",1
+"DU18-02S0011666","7B99A8","30","Male","White","COVID-19","late","No",1
+"DU18-02S0011667","93BAD5","62","Female","White","COVID-19","late","No",1
+"DU18-02S0011618","45FBA5","71","Male","Unknown/Not reported","COVID-19","early","No",1
+"DU18-02S0011669","45FBA5","71","Male","Unknown/Not reported","COVID-19","early","Yes",1
+"DU18-02S0011664","808686","43","Female","White","COVID-19","late","No",2
+"DU18-02S0011613","A79738","35","Female","Asian","COVID-19","early","No",1
+"DU18-02S0011662","0FF381",">89","Female","Black/African American","COVID-19","early","Yes",1
+"DU18-02S0011668","2DB5F9","31","Female","Black/African American","COVID-19","middle","Yes",1
+"DU18-02S0011670","EB057C","67","Male","Black/African American","COVID-19","middle","Yes",1
+"DU18-02S0011612","936128","64","Male","White","COVID-19","middle","Yes",1
+"DU18-02S0011675","E6D451","76","Male","White","COVID-19","early","Yes",1
+"DU18-02S0011676","12B6DB","70","Male","Black/African American","COVID-19","early","Yes",1
+"97389","ADC430","69","Male","Unknown/Not reported","Bacterial",NA,NA,1
+"DU09-03S19498","AB87B2","72","Female","Black/African American","Bacterial",NA,NA,1
+"94478","896282","68","Female","Black/African American","Bacterial",NA,NA,2
+"97392","8304CA","75","Female","Black/African American","Bacterial",NA,NA,1
+"95967","9C7138","38","Female","Black/African American","Bacterial",NA,NA,1
+"95968","3E4D81","76","Male","Black/African American","Bacterial",NA,NA,1
+"95969","8C773D","55","Male","Black/African American","Bacterial",NA,NA,1
+"94486","4F4B07","38","Male","Black/African American","Bacterial",NA,NA,1
+"97394","A48B6B","87","Female","Black/African American","Bacterial",NA,NA,1
+"97395","A76F44","84","Male","Black/African American","Bacterial",NA,NA,1
+"95970","BFC68B","79","Male","Black/African American","Bacterial",NA,NA,1
+"95971","F222E4","33","Female","Black/African American","Bacterial",NA,NA,2
+"97403","26BA6E","80","Male","Black/African American","Bacterial",NA,NA,1
+"DU09-03S19475","736488","39","Female","Black/African American","Bacterial",NA,NA,1
+"95981","5DD4F4","53","Male","Black/African American","Bacterial",NA,NA,1
+"95982","5835FC","35","Female","Black/African American","Bacterial",NA,NA,1
+"96004","CDF6C5","37","Male","Black/African American","Bacterial",NA,NA,1
+"97406","2D444D","85","Female","Black/African American","Bacterial",NA,NA,1
+"95986","BE5D74","74","Female","White","Bacterial",NA,NA,1
+"97407","A983BF","81","Male","Black/African American","Bacterial",NA,NA,1
+"95994","0782B0","51","Female","Unknown/Not reported","Bacterial",NA,NA,1
+"95996","13DB02","60","Female","White","Bacterial",NA,NA,1
+"95997","0FD2F9","52","Female","Black/African American","Bacterial",NA,NA,1
+"105861","1ABCEB","0","Male","White","Influenza",NA,NA,1
+"DU18-02S0011654","A6DA23","33","Male","White","COVID-19","early","Yes",1
+"00943","4F8A8C","47","Male","White","CoV other",NA,NA,1
+"105929","8302D4","51","Female","Black/African American","Influenza",NA,NA,1
+"DU10-01S0000032","F917BC","59","Female","Black/African American","CoV other",NA,NA,1
+"DU10-01S0000709","245418","21","Female","White","CoV other",NA,NA,1
+"DU18-02S0011631","E94CCD","88","Female","Black/African American","COVID-19","middle","Yes",2
+"DU18-02S0011633","66D9D8","69","Female","Black/African American","COVID-19","early","Yes",2
+"DU09-02S0000142","2958E6","18","Female","White","Influenza",NA,NA,1
+"105841","1EDB6C","18","Male","White","Influenza",NA,NA,1
+"434619","36322F","18","Female","White","CoV other",NA,NA,2
+"105824","85F5DA","18","Female","Asian","CoV other",NA,NA,1
+"105791","35278C","18","Male","White","CoV other",NA,NA,1
+"DU09-02S0000143","C49FF2","18","Male","White","Influenza",NA,NA,1
+"DU09-02S0000141","228661","18","Female","Black/African American","CoV other",NA,NA,1
+"234301","4735F6","18","Female","White","CoV other",NA,NA,1
+"105842","7E956E","18","Female","American Indian/Alaska Native","Influenza",NA,NA,1
+"105834","631013","18","Female","White","CoV other",NA,NA,1
+"234435","E2CEAC","18","Female","White","CoV other",NA,NA,1
+"DU09-02S0000145","E2CEAC","18","Female","White","CoV other",NA,NA,1
+"434602","F012BA","18","Female","Asian","CoV other",NA,NA,2
+"105927","F181B3","18","Male","White","Influenza",NA,NA,1
+"434597","C04C8C","18","Female","White","CoV other",NA,NA,1
+"DU09-02S0000101","ADEA56","19","Female","Asian","healthy",NA,NA,1
+"DU09-02S0000103","161D38","18","Male","White","healthy",NA,NA,1
+"234326","A34BBC","18","Male","Asian","CoV other",NA,NA,1
+"DU09-02S0000105","A34BBC","18","Male","Asian","healthy",NA,NA,1
+"434768","7D825F","18","Female","Asian","CoV other",NA,NA,1
+"434859","DCB025","21","Male","Asian","CoV other",NA,NA,1
+"434756","84FA52","18","Female","Native Hawaiian/Pacific Islander","CoV other",NA,NA,1
+"434740","3FFD15","18","Male","White","CoV other",NA,NA,1
+"434741","613015","18","Female","White","CoV other",NA,NA,2
+"DU09-02S0000144","55F502","18","Male","White","CoV other",NA,NA,2
+"234330","FFB007","18","Male","White","CoV other",NA,NA,1
+"434766","1282BB","18","Female","White","CoV other",NA,NA,1
+"434735","CEFC9F","18","Male","Asian","CoV other",NA,NA,2
+"434757","CEFC9F","18","Male","Asian","CoV other",NA,NA,1
+"434809","F492AC","18","Male","White","CoV other",NA,NA,2
+"DU09-02S0000113","32A2DF","19","Male","White","healthy",NA,NA,1
+"DU09-02S0000106","F1D2AB","19","Male","White","healthy",NA,NA,1
+"DU09-02S0000114","E77BE3","18","Female","White","healthy",NA,NA,1
+"DU09-02S0000146","E77BE3","18","Female","White","CoV other",NA,NA,2
+"DU09-02S0000158","237BC6","20","Male","Asian","healthy",NA,NA,1
+"DU09-02S0000115","802B93","18","Female","White","healthy",NA,NA,1
+"434794","023856","18","Male","Other/More than one race","CoV other",NA,NA,1
+"DU09-02S0000120","21345A","18","Male","Other/More than one race","healthy",NA,NA,1
+"DU09-02S0000157","2EA10A","19","Male","Asian","healthy",NA,NA,1
+"DU09-02S0000116","B6068D","18","Male","White","healthy",NA,NA,1
+"434323","2A9E18","18","Female","Black/African American","CoV other",NA,NA,2
+"434777","42175C","18","Female","White","CoV other",NA,NA,1
+"DU09-02S0000111","3C422E","18","Male","White","healthy",NA,NA,1
+"434325","E3BBAF","19","Male","White","CoV other",NA,NA,1
+"DU09-02S0000154","C82C18","18","Female","Asian","healthy",NA,NA,1
+"DU09-02S0000150","7F13CD","18","Female","White","healthy",NA,NA,1
+"DU09-02S0000151","6509F9","18","Female","Asian","healthy",NA,NA,1
+"434330","575E4D","19","Female","White","CoV other",NA,NA,1
+"DU09-02S0000155","BDB9A1","19","Male","White","healthy",NA,NA,1
+"434335","499496","18","Male","White","CoV other",NA,NA,1
+"DU09-02S0000149","6AA2B5","18","Female","Asian","healthy",NA,NA,1
+"DU09-02S0000156","C15597","18","Female","White","healthy",NA,NA,2
+"234376","693EE8","18","Male","Asian","CoV other",NA,NA,1
+"234377","693EE8","18","Male","Asian","CoV other",NA,NA,1
+"434294","BBAB00","18","Male","White","CoV other",NA,NA,1
+"DU09-02S0000153","052022","18","Male","White","healthy",NA,NA,1
+"234432","5AD864","18","Female","Black/African American","CoV other",NA,NA,1
+"434333","502974","18","Female","Asian","CoV other",NA,NA,1
+"434316","1ABC70","18","Male","Asian","CoV other",NA,NA,1
+"434393","83689A","19",NA,"White","CoV other",NA,NA,1
+"DU14-02S0000003","2096A5","18",NA,"White","CoV other",NA,NA,1
+"DU14-02S0000004","2096A5","18",NA,"White","CoV other",NA,NA,1
+"434399","F6087E","18",NA,"White","CoV other",NA,NA,1
+"DU14-02S0000001","FB8714","19",NA,"White","CoV other",NA,NA,2
+"DU14-02S0000002","FB8714","19",NA,"White","CoV other",NA,NA,2
+"434486","4A7852","18",NA,"White","CoV other",NA,NA,1
+"434570","6ED61C","19",NA,"White","CoV other",NA,NA,2
+"434567","6ED61C","19",NA,"White","CoV other",NA,NA,2
+"434557","6ED61C","19",NA,"White","CoV other",NA,NA,2
+"434532","F702D7","18",NA,"Asian","CoV other",NA,NA,1
+"434596","FE32AB","18",NA,"White","CoV other",NA,NA,1
+"DU14-02S0000007","DFC78E","18",NA,"White","CoV other",NA,NA,1
+"DU14-02S0000009","DFC78E","18",NA,"White","CoV other",NA,NA,1
+"434537","A3EC2E","19",NA,"White","CoV other",NA,NA,1
+"434482","B4E5B1","19",NA,"White","CoV other",NA,NA,2
+"434517","284AEB","18",NA,"White","CoV other",NA,NA,1
+"434518","204833","18",NA,"White","CoV other",NA,NA,1
+"DU14-02S0000005","7190A0","18",NA,"White","CoV other",NA,NA,1
+"DU14-02S0000008","7190A0","18",NA,"White","CoV other",NA,NA,1
+"DU14-02S0000006","7190A0","18",NA,"White","CoV other",NA,NA,1
+"DU09-03S0000632","48842A","15","Male","White","Influenza",NA,NA,1
+"105853","7E7003","16","Female","Unknown/Not reported","Influenza",NA,NA,2
+"105847","51312F","14","Male","White","Influenza",NA,NA,1
+"105848","477FBB","16","Male","White","Influenza",NA,NA,1
