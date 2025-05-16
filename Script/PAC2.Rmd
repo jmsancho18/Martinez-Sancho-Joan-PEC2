@@ -66,14 +66,15 @@ library(dplyr)
 library(tidyverse)
 #BiocManager::install("EnsDb.Hsapiens.v86")
 library(EnsDb.Hsapiens.v86)
-## Lectura de de la matriu de counts.
-counts <- read.csv("GSE161731_counts.csv", row.names = 1)
-## Lectura de la matriu de metadades. 
-metadades <- read.csv("GSE161731_counts_Key.csv")
+## Lectura de de la dmatriu de counts.
+counts <- read.csv("Dades/GSE161731_counts.csv", row.names = 1)
+## Lectura de la matriud de metadades. 
+metadades <- read.csv("Dades/GSE161731_counts_Key.csv")
 
 ## S'han de canviar una mica els noms de les columnes de "counts" per a poder "emparellar les dades
 colnames(counts) <-  gsub("\\.", "_", colnames(counts))
 colnames(counts) <-  gsub("X", "", colnames(counts))
+
 
 #De les metadades canviem els signes extranys per a "_"
 metadades <- metadades %>%
