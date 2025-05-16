@@ -1,3 +1,4 @@
 GSE161731_counts_key.csv --> Correspon a les metadades (variables clíniques de les mostres)
 GSE161731_counts.zip --> Correspon als contatges bruts
+clusterProfiler_ORAresults_UPGo.csv --> Són els gens sobreexpressats de l'anàlisis Voom+Lima CovidvsSans amb les seves annotacions i informació sobre la seva implicació a nivell biològic
 
