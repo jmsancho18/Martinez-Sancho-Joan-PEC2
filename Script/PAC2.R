@@ -5,9 +5,9 @@ library(tidyverse)
 #BiocManager::install("EnsDb.Hsapiens.v86")
 library(EnsDb.Hsapiens.v86)
 ## Lectura de de la matriu de counts.
-counts <- read.csv("GSE161731_counts.csv", row.names = 1)
+counts <- read.csv("Dades/GSE161731_counts.csv", row.names = 1)
 ## Lectura de la matriu de metadades. 
-metadades <- read.csv("GSE161731_counts_Key.csv")
+metadades <- read.csv("Dades/GSE161731_counts_Key.csv")
 
 ## S'han de canviar una mica els noms de les columnes de "counts" per a poder "emparellar les dades
 colnames(counts) <-  gsub("\\.", "_", colnames(counts))
